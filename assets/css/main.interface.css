@@ -87,7 +87,7 @@ li a:hover{opacity:.8}
 .wrapper_banner.type_album a:hover .title{text-decoration:underline}
 .item_news a:hover .title{text-decoration:underline}
 .mainfooter{width:100%;background:#090909;padding:30px 0;border-top:1px solid #0f0f0f}
-.mainfooter .centered_logo .logo.madcity{background:url(../../images/logos/madcity-footer.png);width:64px;height:64px;background-size:64px 64px!important;filter:brightness(0) invert(1);opacity:.2;margin:0 auto}
+.mainfooter .centered_logo .logo.madcity{background:url(../../reid-media-licensing-website-favicon-white.png);width:64px;height:64px;background-size:64px 64px!important;filter:brightness(0) invert(1);opacity:.2;margin:0 auto}
 .mainfooter .centered_text{text-align:center;color:#212121;text-transform:uppercase;letter-spacing:2px;font-weight:500;margin-top:10px;font-size:17px;font-family:"Roboto Condensed",sans-serif}
 .mainfooter .centered_logo a:hover{opacity:1}
 .mainfooter .centered_logo a{display:block;opacity:.6}
